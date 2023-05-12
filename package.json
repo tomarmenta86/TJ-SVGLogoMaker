@@ -1,6 +1,22 @@
 {
   "dependencies": {
-    "inquirer": "^8.2.4",
+    "color": "^4.2.3",
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.2",
     "jest": "^29.5.0"
-  }
+  },
+  "name": "tj-svglogomaker",
+  "description": "- [Description](#description)\r - [Usage](#usage)\r - [Acceptance criteria](#acceptance_criteria)",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

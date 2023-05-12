@@ -22,7 +22,7 @@ Open the command line and follow the prompts
 - Prompt for shape allows for a choice from circle, triangle, and square.
 - Prompt for shape color allows for a color keyword or hexidecimal number input
 - An SVG file is created named `logo.svg` and the output text "Generated logo.svg" is printed in the command line
-- When the file is opened an image that matches the user-input criteria
+- When the file is opened a 300x200 pixel image that matches the user-input criteria is shown
 
 
 ## Questions
