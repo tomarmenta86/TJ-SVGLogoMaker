@@ -14,6 +14,8 @@ A command-line application that generates a simple logo from user input
 
 Open the command line and follow the prompts
 
+![video](SVGGenerator.mp4)
+
 ## Acceptance_criteria
 
 - Command-line prompts user for input
